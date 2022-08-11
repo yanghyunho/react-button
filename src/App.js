@@ -24,6 +24,7 @@ function App() {
             +
           </button>
         </div>
+
         <div>
           <button
             style={{ backgroundColor: "blue" }}
